@@ -1,0 +1,4 @@
+Ankit's Salary is 9000000
+Himanshu's Salary is 12000000
+Tanvi's Salary is 130000000
+Devesh's Salary is 2300000
